@@ -7,3 +7,9 @@
 - Do not borrow the Grassland Ecosystem project's three-lesson structure, digital food-web resource, or ecological content.
 - Do not invent classroom results, student responses, sample sizes or effectiveness claims.
 - Verify references against original publications before submission.
+
+## Teacher confirmation (2026-11-27)
+- Selected manuscript title: 《指向核心素养发展的“血液”教学设计》.
+- The lesson **has been implemented in a real classroom**. The teacher reports that the teaching went very well.
+- This teacher report is not yet quantified research evidence. Obtain specific classroom observations, anonymized student work, assessments or reflections before making claims about demonstrated learning outcomes.
+- Organize the manuscript around the four dimensions of biology core competencies, while retaining the actual lesson activities and source materials.
